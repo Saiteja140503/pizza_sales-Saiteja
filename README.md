@@ -1,5 +1,7 @@
 🍕 Pizza Sales Analysis using MySQL
+
 📊 Project Overview
+
 This project is a comprehensive SQL portfolio project focused on analyzing sales data from a fictional pizza restaurant. Using MySQL, we explore key business metrics like revenue, order volume, popular products, and customer preferences to derive actionable insights for decision-making.
 
 📁 Dataset Description
